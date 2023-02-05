@@ -1,1 +1,3 @@
 # git_test
+My first gitHUb repo....
+Thanks Odin.
